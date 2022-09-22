@@ -1,5 +1,9 @@
 ### Hi there 👋
-Just testing for now.
+- 🔭 I’m currently working on radar localisation for autonomous vehicles at [Oxbotica](https://www.oxbotica.com/), mainly in C++ and Python
+- 🤖 Previously at the University of Oxford for my DPhil (Oxford-speak for a PhD) in Engineering Science -> see publications [here](https://scholar.google.co.uk/citations?user=z3VqGqAAAAAJ&hl=en)
+- 🌱 I’m currently learning Go, and getting started with TypeScript and React
+- 💬 Ask me about robotics, radar-based navigation, or food. Not necessarily in that order 🍝
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertoaldera/) is probably best ☺️
 
 <!--
 Defaults:

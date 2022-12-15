@@ -1,8 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently based at [Thinkst Applied Research](https://thinkst.com/)
-- 🤖 Got to play with radar localisation for autonomous vehicles at [Oxbotica](https://www.oxbotica.com/), mainly in C++ and Python
+- 🤓 I’m currently based at [Thinkst Applied Research](https://thinkst.com/)
 - 🤖 Previously at the University of Oxford for my DPhil (Oxford-speak for a PhD) in Engineering Science -> see publications [here](https://scholar.google.co.uk/citations?user=z3VqGqAAAAAJ&hl=en)
-- 🌱 I’m currently learning Go, and getting started with TypeScript and React
 - 💬 Ask me about robotics, radar-based navigation, or food. Not necessarily in that order 🍝
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertoaldera/) is probably best ☺️
 
